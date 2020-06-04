@@ -7,6 +7,7 @@ Deze Challenge omvat lesstof zoals die is behandeld in de onderstaande modules:
 2. PHP-ADVANCED
 3. MYSQL-BASIC
 4. DATABASE-DESIGN
+   
 
 ## Te laat Registratie App
 
