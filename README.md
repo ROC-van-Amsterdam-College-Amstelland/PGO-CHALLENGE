@@ -2,7 +2,7 @@
 
 ## Uitleg
 
-In deze repository komen alle challenges te zijn voor OP4
+In deze repository komen alle challenges te staan.
 
 Een challenge is grote (project) opdracht dat meerdere modules zal bevatten. De student zal de challenge te zien krijgen aan het begin van de iteratie.
 Een challege zal een opdracht zijn van een dermate grootte dat een student zeer waarschijnlijk nog kennis zal missen.
@@ -12,16 +12,7 @@ Door Moduleopdrachten en eventueel taken te maken zal de student zichzelf gereed
 
 De eerste Challenge tijdens OP4 zal bestaan uit de Modules
 
-- PHP Basic
-- MySQL Basic
-
-De tweede Challenge tijdens OP4 zal bestaan uit de Modules
-
-- PHP Basic
-- PHP Advanced
-- MySQL Basic
-
-De Derde Challenge tijdens OP4 zal bestaan uit de Modules
-
-- PHP Advanced
-- Mysql Advanced
+- PHP-BASIC
+- PHP-ADVANCED
+- MYSQL-BASIC
+- DATABASE-DESIGN
